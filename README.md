@@ -12,8 +12,4 @@
 
 ------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasilvestre&layout=compact)](https://github.com/vasilvestre)
-
-------
-
 [![vasilvestre's github stats](https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1)](https://github.com/vasilvestre)
