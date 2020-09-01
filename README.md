@@ -1,6 +1,6 @@
 <p>
   <a href="(https://twitter.com/valentinsilves">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/valentinsilves?style=for-the-badge&logo=twitter">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/valentinsilves?label=Follow&logo=twitter">
   </a>
 </p>
 
