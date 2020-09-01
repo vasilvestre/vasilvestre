@@ -10,6 +10,4 @@
 - 🎤 I would absolutly love to make a talk in both French or English !
 - 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
 
-------
-
 [![vasilvestre's github stats](https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1)](https://github.com/vasilvestre)
