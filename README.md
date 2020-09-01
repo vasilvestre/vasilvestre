@@ -12,4 +12,4 @@
 - 🌱 Technologies I love to learn about: Symfony, Api Platform, Sylius, Pest, PHPStan, Docker, CI/CD, Bref, Serverless, AWS.
 - 📚 Master degree obtained in 2020 at l'[Université Catholique de Lille](https://www.univ-catholille.fr/)
 - 🎤 I would absolutely love to make a talk in both French or English !
-- 📫 Find me on [Twitter](https://twitter.com/valentinsilves)  and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
+- 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
