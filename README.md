@@ -1,8 +1,6 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am Valentin Silvestre </h2>
 
 <img align="right" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" />
-
-### I am Valentin Silvestre
 
 - 🔭 Software Engineer at [Oliver'Store](https://www.stores-discount.com/) — working on OSS sometimes, mostly on [Symfony](https://symfony.com/) related packages and PHP ecosystem in general.
 - 🌱 Technologies I love to learn about: Symfony, Api Platform, Sylius, Pest, PHPStan, Docker, CI/CD, Bref, Serverless, AWS.
