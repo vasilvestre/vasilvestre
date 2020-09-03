@@ -1,9 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="(https://twitter.com/valentinsilves"><img align="left" alt="Valentin Silvestre Twitter's Follow" src="https://img.shields.io/twitter/follow/valentinsilves?label=Follow&logo=twitter"></a>
-
-<br/>
-
 <img align="right" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" />
 
 ### I am Valentin Silvestre
