@@ -2,9 +2,9 @@ name: Docker
 
 on:
   push:
-#    Not revelant during dev
-#    branches:
-#      - main
+    branches:
+      - main
+      - site
 
     tags:
       - v*
