@@ -1,7 +1,41 @@
-version: "3"
+version: "3.5"
 
 services:
+  web:
+    image: bref/fpm-dev-gateway
+    ports:
+      - '8000:80'
+    volumes:
+      - .:/var/task
+      - ./cache:/var/task/cache
+    depends_on:
+      - php
+    links:
+      - php
+    environment:
+      HANDLER: public/index.php
+      DOCUMENT_ROOT: public
+
   php:
-    image:
+    image: bref/php-74-fpm-dev
+    volumes:
+      - .:/var/task:ro
+      - ./var/cache:/var/task/var/cache
+
+  console:
+    image: bref/php-74
+    volumes:
+      - .:/var/task:ro
+    entrypoint: php
+
+  composer:
+    image: docker.pkg.github.com/vasilvestre/vasilvestre/php-fpm:site
     volumes:
       - ./:/var/www
+
+  redis:
+    image: redis:4-stretch
+
+volumes:
+  caddy_data:
+  caddy_config:
