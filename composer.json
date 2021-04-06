@@ -1,0 +1,32 @@
+{
+    "require": {
+        "symfony/flex": "^1.10",
+        "api-platform/core": "^2.5",
+        "nelmio/cors-bundle": "^2.1",
+        "symfony/asset": "^5.1",
+        "symfony/expression-language": "^5.1",
+        "composer/package-versions-deprecated": "1.11.99.1",
+        "doctrine/doctrine-bundle": "^2.2",
+        "doctrine/doctrine-migrations-bundle": "^3.0",
+        "doctrine/orm": "^2.7",
+        "symfony/security-bundle": "^5.1",
+        "doctrine/annotations": "^1.0",
+        "phpdocumentor/reflection-docblock": "^5.2",
+        "symfony/property-access": "^5.1",
+        "symfony/property-info": "^5.1",
+        "symfony/serializer": "^5.1",
+        "symfony/twig-bundle": "^5.1",
+        "symfony/validator": "^5.1",
+        "bref/bref": "^1.0",
+        "symfony/monolog-bundle": "^3.6"
+    },
+    "scripts": {
+        "auto-scripts": {
+            "cache:clear": "symfony-cmd",
+            "assets:install %PUBLIC_DIR%": "symfony-cmd"
+        }
+    },
+    "require-dev": {
+        "symfony/maker-bundle": "^1.24"
+    }
+}
