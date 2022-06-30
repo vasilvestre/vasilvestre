@@ -8,4 +8,6 @@
 - 🎤 I would absolutely love to make a talk in both French or English !
 - 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
 
-Visit my [website (tree link)](https://vasilvestre.github.io/). Status : https://vasilvestre.github.io/status/
+Visit my [website (tree link)](https://vasilvestre.github.io/). 
+
+Status : https://vasilvestre.github.io/status/
