@@ -8,7 +8,7 @@
 - 🎤 I would absolutely love to make a talk in both French or English !
 - 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
 
-Visit my [socials](https://vasilvestre.github.io/). 
+Visit my [new & cool website](https://vasilvestre.github.io/). 
 
 Status : https://vasilvestre.github.io/status/
 
