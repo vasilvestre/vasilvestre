@@ -12,6 +12,8 @@ Visit my [new & cool website](https://vasilvestre.github.io/).
 
 Status : https://vasilvestre.github.io/status/
 
+[![An image of @vasilvestre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasilvestre)](https://holopin.io/@vasilvestre)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vasilvestre/count.svg" />
