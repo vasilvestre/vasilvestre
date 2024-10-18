@@ -7,20 +7,20 @@
   - [24/05/2024 : L'êtat des profilers PHP en 2024](https://github.com/vasilvestre/profiler-slides)
   - [13/06/2023 : Create expressive fixtures with Foundry](https://github.com/vasilvestre/foundry-slides)
   - [12/09/2022 : How to properly extend Sylius API at 1.12](https://github.com/vasilvestre/extending-sylius-1.12-09-22)
+- Side projects
+  - [Mod manager for TOTK emulators](https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators?tab=readme-ov-file)
 - 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
 
 Visit my [new & cool website](https://vasilvestre.github.io/). 
 
 How I know a website is down for free : https://vasilvestre.github.io/status/
 
-**My fav side project** :
-- [Mod manager/assistant for TOTK emulators](https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators?tab=readme-ov-file)
-
-<p align="left"> 
-  Visitor count<br>
-  <img alight="left" src="https://profile-counter.glitch.me/vasilvestre/count.svg" />
-  <img align="right" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" />
+<p align="middle"> 
+  <img align="middle" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" /><br/>
+  Visitor count<br/>
+  <img alight="center" src="https://profile-counter.glitch.me/vasilvestre/count.svg" />
 </p>
+
 
 ### Cool badges (I love gamification)
 [![An image of @vasilvestre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasilvestre)](https://holopin.io/@vasilvestre)
