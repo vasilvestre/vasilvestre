@@ -11,7 +11,10 @@
 
 Visit my [new & cool website](https://vasilvestre.github.io/). 
 
-Status : https://vasilvestre.github.io/status/
+How I know a website is down for free : https://vasilvestre.github.io/status/
+
+**My fav side project** :
+- [Mod manager/assistant for TOTK emulators](https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators?tab=readme-ov-file)
 
 <p align="left"> 
   Visitor count<br>
@@ -19,4 +22,5 @@ Status : https://vasilvestre.github.io/status/
   <img align="right" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" />
 </p>
 
+### Cool badges (I love gamification)
 [![An image of @vasilvestre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasilvestre)](https://holopin.io/@vasilvestre)
