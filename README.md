@@ -9,7 +9,7 @@
   - [12/09/2022 : How to properly extend Sylius API at 1.12](https://github.com/vasilvestre/extending-sylius-1.12-09-22)
 - Side projects
   - [Mod manager for TOTK emulators](https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators?tab=readme-ov-file)
-- 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/v-silvestre/)
+- 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/valentin-silvestre-dev/)
 
 Visit my [new & cool website](https://vasilvestre.github.io/). 
 
