@@ -4,9 +4,10 @@
 - 🌱 working on OSS sometimes, mostly on [Symfony](https://symfony.com/) related packages and PHP ecosystem in general. Love [API-Platform](https://api-platform.com/) and [Sylius](https://sylius.com/fr/) !
 - 📚 Master degree obtained in 2020 at the [Université Catholique de Lille](https://www.univ-catholille.fr/)
 - 🎤 I give talks in French, none has been recorded yet :)
-  - [24/05/2024 : L'êtat des profilers PHP en 2024](https://github.com/vasilvestre/profiler-slides)
-  - [13/06/2023 : Create expressive fixtures with Foundry](https://github.com/vasilvestre/foundry-slides)
-  - [12/09/2022 : How to properly extend Sylius API at 1.12](https://github.com/vasilvestre/extending-sylius-1.12-09-22)
+  - [11/2024 : sylius/stack's impact on Symfony ecosystem](https://github.com/vasilvestre/sylius-stack-slides)
+  - [05/2024 : L'êtat des profilers PHP en 2024](https://github.com/vasilvestre/profiler-slides)
+  - [06/2023 : Create expressive fixtures with Foundry](https://github.com/vasilvestre/foundry-slides)
+  - [09/2022 : How to properly extend Sylius API at 1.12](https://github.com/vasilvestre/extending-sylius-1.12-09-22)
 - Side projects
   - [Mod manager for TOTK emulators](https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators?tab=readme-ov-file)
 - 📫 Find me on [Twitter](https://twitter.com/valentinsilves) and [LinkedIn](https://www.linkedin.com/in/valentin-silvestre-dev/)
