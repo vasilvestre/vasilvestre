@@ -14,14 +14,8 @@
 
 Visit my [new & cool website](https://vasilvestre.github.io/). 
 
-How I know a website is down for free : https://vasilvestre.github.io/status/
-
 <p align="middle"> 
   <img align="middle" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" /><br/>
   Visitor count<br/>
   <img alight="center" src="https://profile-counter.glitch.me/vasilvestre/count.svg" />
 </p>
-
-
-### Cool badges (I love gamification)
-[![An image of @vasilvestre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vasilvestre)](https://holopin.io/@vasilvestre)
