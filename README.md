@@ -5,7 +5,7 @@
 - 📚 Master degree obtained in 2020 at the [Université Catholique de Lille](https://www.univ-catholille.fr/)
 - 🎤 I give talks in French, none has been recorded yet :)
   - [11/2024 : sylius/stack's impact on Symfony ecosystem](https://github.com/vasilvestre/sylius-stack-slides)
-  - [05/2024 : L'êtat des profilers PHP en 2024](https://github.com/vasilvestre/profiler-slides)
+  - ⚠️ Afup Day at Lille ! ⚠️ [05/2024 : L'êtat des profilers PHP en 2024](https://github.com/vasilvestre/profiler-slides)
   - [06/2023 : Create expressive fixtures with Foundry](https://github.com/vasilvestre/foundry-slides)
   - [09/2022 : How to properly extend Sylius API at 1.12](https://github.com/vasilvestre/extending-sylius-1.12-09-22)
 - Side projects
