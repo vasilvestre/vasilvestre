@@ -1,5 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am Valentin Silvestre </h2>
 
+- 2025 Q1 Sylius key contributor.
 - 🔭 Software Engineer at [Akawaka](https://www.akawaka.fr/).
 - 🌱 working on OSS sometimes, mostly on [Symfony](https://symfony.com/) related packages and PHP ecosystem in general. Love [API-Platform](https://api-platform.com/) and [Sylius](https://sylius.com/fr/) !
 - 📚 Master degree obtained in 2020 at the [Université Catholique de Lille](https://www.univ-catholille.fr/)
