@@ -17,4 +17,5 @@
   <img align="middle" alt="Valentin Silvestre's github stats" src="https://github-readme-stats.vercel.app/api?username=vasilvestre&count_private=1&show_icons=true" /><br/>
   Visitor count<br/>
   <img alight="center" src="https://profile-counter.glitch.me/vasilvestre/count.svg" />
+  ![](https://komarev.com/ghpvc/?username=vasilvestre)
 </p>
