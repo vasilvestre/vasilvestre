@@ -14,7 +14,7 @@ I'm a passionate PHP developer specializing in Symfony, API Platform, and Sylius
 
 ### 🚀 Professional Experience
 - 🔭 **Lead PHP Developer** at [Akawaka](https://www.akawaka.fr/) (2023-Present)
-- 🏆 **Sylius Key Contributor** (Q1 2025)
+- 🏆 **Sylius Key Contributor** (Q1/2 2025)
 - 🌱 **Open Source Contributor** to Symfony ecosystem projects
 - 🎓 **Master's Degree in Computer Science** - [Université Catholique de Lille](https://www.univ-catholille.fr/) (2020)
 
