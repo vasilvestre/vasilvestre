@@ -36,6 +36,7 @@ I regularly speak at PHP and Symfony events in France. Recent presentations incl
 
 | Date      | Event             | Topic                                            | Resources                                                                |
 |-----------|-------------------|--------------------------------------------------|--------------------------------------------------------------------------|
+| Oct 2025  | PHP Meetup        | AI Agenctic steals my job and I like it          | [Slides]([https://github.com/vasilvestre/opencode-slides])              |
 | Nov 2024  | Symfony Meetup    | `sylius/stack`'s Impact on the Symfony Ecosystem | [Slides](https://github.com/vasilvestre/sylius-stack-slides)            |
 | May 2024  | **Afup Day Lille**| The State of PHP Profilers in 2024               | [Slides](https://github.com/vasilvestre/profiler-slides)                |
 | Jun 2023  | PHP Workshop      | Creating Expressive Fixtures with Foundry        | [Slides](https://github.com/vasilvestre/foundry-slides)                 |
