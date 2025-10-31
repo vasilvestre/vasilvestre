@@ -48,6 +48,7 @@ I regularly speak at PHP and Symfony events in France. Recent presentations incl
 - **[TOTK Mod Manager](https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators)**: A custom mod manager for *Tears of the Kingdom* on Switch emulators.
 - **[Symfony Contributions](https://github.com/symfony/symfony/pulls?q=author%3Avasilvestre)**: Bug fixes and improvements to the Symfony framework.
 - **[Sylius Contributions](https://github.com/Sylius/Sylius/pulls?q=author%3Avasilvestre)**: Core improvements to the Sylius e-commerce platform.
+- **[Rector MCP](https://github.com/vasilvestre/mcp-rector)**: Playfield to learn MCP and personnal usage 
 
 ---
 
